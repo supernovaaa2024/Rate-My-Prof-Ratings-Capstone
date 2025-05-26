@@ -1,8 +1,4 @@
 #%%
-# Capstone Project
-# Owen Huang 
-# NetID: yh4842
-# N number: N17864220
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
